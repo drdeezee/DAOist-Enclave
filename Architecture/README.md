@@ -5,14 +5,14 @@
 (2)  Then we will give definition to the software creating the Entrepreneurial economic Decentralized ecosystem (EeDe) necessary to sustain AABE-lifeforms. The EeDe architecture will consist of the following modules:
   1. Allocations (specifically those of claims on future revenues)
   1. Governance (illustrating the operation of the bilateral Legatocracies of an AABE)
-  1. Delegation (defining the mechanisms for distribution of Authroity across the Collective)
+  1. Delegation (defining the mechanisms for distribution of Authority across the Collective)
   1. Reputation (the organic creation and management of social currency)
   1. Capitalization (the systems necessary for budgetless cash-flow management)
   1. Inception (the spontaneous forming of Franchises from viable business notions)
   1. Assetation (how a non-legal entity can hold ownership of real-world assets)
   1. Taxation (the relationship of economic prosperity and local governments)
 
-(3)  We will also address the architecture of all the tech layers from Blockchain to Retail Market including all the social interfaces that facilitate collaboration of franchise collectives. This architecture will address concerns such as what data must be recorded indelibly upon the Blockchain, eg: Contributions, Compensation and Claims upon future revenues.
+(3)  We will also address the architecture of all the tech layers from Blockchain to Retail Market, including all the social interfaces that facilitate collaboration of franchise collectives. This architecture will address concerns such as what data must be recorded indelibly upon the Blockchain, eg: Contributions, Compensation and Claims upon future revenues.
 
 (4)  There will be consideration given to the high-level architecture of a minimally functional Economic-Enclave which will include the following franchises:
 * The EnclaveKeeper (the public utility responsible for the EeDe software maintenance and evolution)
